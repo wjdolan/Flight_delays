@@ -1,4 +1,4 @@
-# Flight_delays
+# Time Series Analysis and Prediction
  
  This is the final project for LighthouseLabs. It performs time series analysis and predicts future values based on various models
 
