@@ -1,12 +1,12 @@
 # Flight_delays
  
- This is a midterm project for LighthouseLabs that predicts flight delays
+ This is the final project for LighthouseLabs. It performs time series analysis and predicts future values based on various models
 
- It uses supervised learning based on the following flight data:
->   *   flights (Departure and arrival information for US flights from 2018-2019)
->   *   fuel_consumption (Consumption of different airlines 2015-2019 aggregated per month)
->   * passengers (Total passengers on different routes from 2015-2019 aggregated per month)
->   * flights_test (Departure and arrival information test data set)
+ It uses supervised learning based on the following data:
+>   *   gasoline sales volumes (EIA data from 1983-2021)
+>   *   Kerosene sales volumes (EIA data from 1983-2021)
+>   *   
+>   *   
 
 ## Table of Contents
 >   * [Data](/data)
